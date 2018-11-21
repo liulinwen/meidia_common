@@ -1,1 +1,1 @@
-include ':test-code', ':LoadPhoto'
+include ':test-code', ':LoadPhoto', ':instantapp'

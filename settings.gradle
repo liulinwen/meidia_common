@@ -1,1 +1,1 @@
-include ':test-code', ':LoadPhoto', ':instantapp'
+include ':test-code', ':LoadPhoto', ':android_common', ':app'

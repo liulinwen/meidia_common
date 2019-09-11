@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LoadPhoto/LoadPhoto.iml" filepath="$PROJECT_DIR$/LoadPhoto/LoadPhoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoadPhoto/LoadPhoto.iml" filepath="$PROJECT_DIR$/LoadPhoto/LoadPhoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_common/android_common.iml" filepath="$PROJECT_DIR$/android_common/android_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/meidia_common.iml" filepath="$PROJECT_DIR$/meidia_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meidia_common.iml" filepath="$PROJECT_DIR$/meidia_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-code/test-code.iml" filepath="$PROJECT_DIR$/test-code/test-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-code/test-code.iml" filepath="$PROJECT_DIR$/test-code/test-code.iml" />
     </modules>
   </component>
